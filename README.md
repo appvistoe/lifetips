@@ -1,17 +1,16 @@
-What is Ez Battery Reconditioning Program?
-EZ Battery Reconditioning is a 10-20 minute method of bringing new life into the batteries you already own. Using simple tools such as a multi-meter you will be able to test your batteries, revive those that are underperforming, and nearly double the lifespan one gets out of the average car, golf cart or medical home battery. This method developed by Tom Ericson has helped keep thousands of cars and other devices running and kept their battery pollutants out of the landfill.
+Former World's Strongest Man Eddie Hall regularly shares videos of his strength training on his YouTube channel, and over the last few months has been posting updates of his home workouts while in quarantine.
 
-Let’s break it down:
+Hall's previous leg day videos have featured an equipment-free HIIT workout and advice for building massive calves; his most recent leg session includes the box jump. 4 sets of 6 to 8 reps, to be exact. Currently weighing in at just under 360 pounds (160 kilos), can Hall muster up the explosive movement needed for this plyometric move?
 
-Many cars, golf carts and other devices run on so called wet-cell, lead-acid cell batteries. This means that typically a plate of lead is immersed in sulfuric acid, resulting in a reaction that creates electricity. Over time corrosive processes that are natural to the battery can result in decreased performance and lead to decreased voltage.
-This decreased voltage can lead many to believe their battery is dead and needing to be replaced. The resulting trip for a new battery can be a painful one, as the costs and work for a replacement can be huge endeavor.
+For the first set, Hall starts off with a 24-inch high box (a lot more "in man inches," he jokes). He manages an easy 6 reps, then adds extra height so he's jumping 36 inches, which proves more difficult. Prior to attempting this set, Hall double-checks his positioning by planting his hands on the box first.
 
-How EZ Battery Reconditioning Program Works?
-The EZ Battery Reconditioning program outlines simple common sense steps to rejuvenating your battery. To start, one must safely remove their battery from the device and disconnect all power to the battery. Gloves and eye protection are a must, as well as making sure the environment you are working in is secure and dry.
-The first step towards reconditioning a battery is cleaning the contacts, or terminals, on the battery. These positive and negative terminals over the years will build up residue that needs to be cleaned with steel wool or other abrasive brushes in order to maintain a good contact point. Without good contact voltage can be lacking or inconsistent with the result being decreased power in starting or running your car.
+Raising the box height by an extra 6 inches to a 42-inch total makes the third set even harder, and Hall's jump fails to clear the full height.
 
-Ok so I have done this, what’s the next step?
-For the next step, a cheap multimeter (sometimes called a volt-meter) and a hydrometer are required. A hydrometer is a device used for measuring the density of liquids. Due to lead-acid batteries containing fluid, it’s important to check the fluid density of the cell to ensure that the cell is performing correctly. A multimeter is a device used to check voltage readings from the battery. After undergoing the steps outlined in the ebook you will check the voltage to see if the battery is performing correctly. Both the multimeter and hydrometer can be obtained cheaply from online or home improvement stores.
+This content is imported from YouTube. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
 
-The first step is checking the terminals to make sure the output is consistent with what your battery should read. Using the EZ Battery Reconditioning guide you will be able to then check each cell’s electrolyte level with a hydrometer to make sure each cell is performing adequately. It’s important to note at this point any concerns to each individual cell such as bulging and cracking, and the guide helpfully outlines what to look for. Safety is a must when measuring the cells so always wear your personal protective gear mentioned above during this process
+The leg workout also includes Bulgarian split squats, using bodyweight only before moving up to the traditional, weighted version of the move. As Hall continues to lean down as part of his pivot from strongman to boxer, exercises like this will help him be faster on his feet by building power in his legs and glutes.
+
+He follows this with a round of safety bar squats, consisting of a slow, controlled downward movement which recruits all of the muscles in the legs, then an explosive return to the upright position.
+
+"It's important to keep shocking the body," says Hall. "That's what it's all about: keep shocking the body, keep it under pressure, keep it growing, keep it progressing all the time."
 <script type="text/javascript" src="https://app.elleidea.com/cf.js" async="async"></script>
