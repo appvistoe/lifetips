@@ -13,4 +13,4 @@ The leg workout also includes Bulgarian split squats, using bodyweight only befo
 He follows this with a round of safety bar squats, consisting of a slow, controlled downward movement which recruits all of the muscles in the legs, then an explosive return to the upright position.
 
 "It's important to keep shocking the body," says Hall. "That's what it's all about: keep shocking the body, keep it under pressure, keep it growing, keep it progressing all the time."
-<script type="text/javascript" src="https://app.elleidea.com/cf.js" async="async"></script>
+
