@@ -1,16 +1,91 @@
-Former World's Strongest Man Eddie Hall regularly shares videos of his strength training on his YouTube channel, and over the last few months has been posting updates of his home workouts while in quarantine.
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<style>
+.newsletter {
+padding: 80px 0;
+background: #19beda;
+}
 
-Hall's previous leg day videos have featured an equipment-free HIIT workout and advice for building massive calves; his most recent leg session includes the box jump. 4 sets of 6 to 8 reps, to be exact. Currently weighing in at just under 360 pounds (160 kilos), can Hall muster up the explosive movement needed for this plyometric move?
+.newsletter .content {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; }
+.newsletter .content h2 {
+color: #243c4f;
+margin-bottom: 40px; }
+.newsletter .content .form-control {
+height: 50px;
+border-color: #ffffff;
+border-radius:0;
+}
+.newsletter .content.form-control:focus {
+box-shadow: none;
+border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+min-height: 50px; 
+border-radius:0;
+background: #243c4f;
+color: #fff;
+font-weight:600;
+}
+</style>
+The two main types of arthritis — osteoarthritis and rheumatoid arthritis — damage joints in different ways.
 
-For the first set, Hall starts off with a 24-inch high box (a lot more "in man inches," he jokes). He manages an easy 6 reps, then adds extra height so he's jumping 36 inches, which proves more difficult. Prior to attempting this set, Hall double-checks his positioning by planting his hands on the box first.
+Osteoarthritis
+The most common type of arthritis, osteoarthritis involves wear-and-tear damage to your joint's cartilage — the hard, slick coating on the ends of bones where they form a joint. Cartilage cushions the ends of the bones and allows nearly frictionless joint motion, but enough damage can result in bone grinding directly on bone, which causes pain and restricted movement. This wear and tear can occur over many years, or it can be hastened by a joint injury or infection.
 
-Raising the box height by an extra 6 inches to a 42-inch total makes the third set even harder, and Hall's jump fails to clear the full height.
+Osteoarthritis also affects the entire joint. It causes changes in the bones and deterioration of the connective tissues that attach muscle to bone and hold the joint together. It also causes inflammation of the joint lining.
 
-This content is imported from YouTube. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+Rheumatoid arthritis
+In rheumatoid arthritis, the body's immune system attacks the lining of the joint capsule, a tough membrane that encloses all the joint parts. This lining (synovial membrane) becomes inflamed and swollen. The disease process can eventually destroy cartilage and bone within the joint.
 
-The leg workout also includes Bulgarian split squats, using bodyweight only before moving up to the traditional, weighted version of the move. As Hall continues to lean down as part of his pivot from strongman to boxer, exercises like this will help him be faster on his feet by building power in his legs and glutes.
+Risk factors
+Risk factors for arthritis include:
 
-He follows this with a round of safety bar squats, consisting of a slow, controlled downward movement which recruits all of the muscles in the legs, then an explosive return to the upright position.
+Family history. Some types of arthritis run in families, so you may be more likely to develop arthritis if your parents or siblings have the disorder. Your genes can make you more susceptible to environmental factors that may trigger arthritis.
+Age. The risk of many types of arthritis — including osteoarthritis, rheumatoid arthritis and gout — increases with age.
+Your sex. Women are more likely than men to develop rheumatoid arthritis, while most of the people who have gout, another type of arthritis, are men.
+Previous joint injury. People who have injured a joint, perhaps while playing a sport, are more likely to eventually develop arthritis in that joint.
+Obesity. Carrying excess pounds puts stress on joints, particularly your knees, hips and spine. People with obesity have a higher risk of developing arthritis.
+Complications
+Severe arthritis, particularly if it affects your hands or arms, can make it difficult for you to do daily tasks. Arthritis of weight-bearing joints can keep you from walking comfortably or sitting up straight. In some cases, joints may become twisted and deformed.
 
-"It's important to keep shocking the body," says Hall. "That's what it's all about: keep shocking the body, keep it under pressure, keep it growing, keep it progressing all the time."
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<style>
+.newsletter {
+padding: 80px 0;
+background: #19beda;
+}
 
+.newsletter .content {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; }
+.newsletter .content h2 {
+color: #243c4f;
+margin-bottom: 40px; }
+.newsletter .content .form-control {
+height: 50px;
+border-color: #ffffff;
+border-radius:0;
+}
+.newsletter .content.form-control:focus {
+box-shadow: none;
+border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+min-height: 50px; 
+border-radius:0;
+background: #243c4f;
+color: #fff;
+font-weight:600;
+}
+</style>
