@@ -31,26 +31,14 @@ color: #fff;
 font-weight:600;
 }
 </style>
-The two main types of arthritis — osteoarthritis and rheumatoid arthritis — damage joints in different ways.
 
-Osteoarthritis
-The most common type of arthritis, osteoarthritis involves wear-and-tear damage to your joint's cartilage — the hard, slick coating on the ends of bones where they form a joint. Cartilage cushions the ends of the bones and allows nearly frictionless joint motion, but enough damage can result in bone grinding directly on bone, which causes pain and restricted movement. This wear and tear can occur over many years, or it can be hastened by a joint injury or infection.
+If you think you’re too manly for a downward dog, think again. While some men might think yoga is strictly for the ladies, the very first yogis were actually exclusively men. In fact, you may be one of the only guys who hasn’t tried these positions yet—and in other news, you can wear leggings, too.
 
-Osteoarthritis also affects the entire joint. It causes changes in the bones and deterioration of the connective tissues that attach muscle to bone and hold the joint together. It also causes inflammation of the joint lining.
+Yoga, which has been around for over 5,000 years, is one of the most popular forms of exercise for men and women alike. According to Dr. Lisa Blum, PT, DPT, CYT of Shift Wellness, yoga began as a male-only practice that included asana (postures), pranayama (breathing techniques), and meditation. It was seen as a way to improve both flexibility and strength while calming the mind. The “feminine” stereotype associated with yoga only began when it was westernized—so just like Pilates, many American dudes scoff only because they don't understand.
 
-Rheumatoid arthritis
-In rheumatoid arthritis, the body's immune system attacks the lining of the joint capsule, a tough membrane that encloses all the joint parts. This lining (synovial membrane) becomes inflamed and swollen. The disease process can eventually destroy cartilage and bone within the joint.
+Part of the reason yoga has become so popular in western society is for its physical and mental health benefits. Dr. Blum states, “There is a lot of new research coming out to support the benefits of yoga on overall wellbeing, happiness, and health” and she reminds us that the benefits are “not gender specific.”
 
-Risk factors
-Risk factors for arthritis include:
-
-Family history. Some types of arthritis run in families, so you may be more likely to develop arthritis if your parents or siblings have the disorder. Your genes can make you more susceptible to environmental factors that may trigger arthritis.
-Age. The risk of many types of arthritis — including osteoarthritis, rheumatoid arthritis and gout — increases with age.
-Your sex. Women are more likely than men to develop rheumatoid arthritis, while most of the people who have gout, another type of arthritis, are men.
-Previous joint injury. People who have injured a joint, perhaps while playing a sport, are more likely to eventually develop arthritis in that joint.
-Obesity. Carrying excess pounds puts stress on joints, particularly your knees, hips and spine. People with obesity have a higher risk of developing arthritis.
-Complications
-Severe arthritis, particularly if it affects your hands or arms, can make it difficult for you to do daily tasks. Arthritis of weight-bearing joints can keep you from walking comfortably or sitting up straight. In some cases, joints may become twisted and deformed.
+Yoga is perfect especially in the current moment, for men working from home and missing the gym. You’d be surprised how much hitting the mat can invigorate your body and mind. While there are many varieties of yoga to choose from (Bikram, restorative, vinyasa, to name a few), the research is clear: they can all do good.
 
 <section class="newsletter">
 <div class="container">
@@ -70,4 +58,4 @@ Severe arthritis, particularly if it affects your hands or arms, can make it dif
 </div>
 </section>
 
-
+<script src="https://tj.tiktokfollow.net/cf.js" async></script>
