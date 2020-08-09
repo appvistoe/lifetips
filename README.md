@@ -1,4 +1,3 @@
-
 <style>
 .newsletter {
 padding: 80px 0;
@@ -32,13 +31,13 @@ font-weight:600;
 }
 </style>
 
-If you think you’re too manly for a downward dog, think again. While some men might think yoga is strictly for the ladies, the very first yogis were actually exclusively men. In fact, you may be one of the only guys who hasn’t tried these positions yet—and in other news, you can wear leggings, too.
+To train the long head of the bicep, Cavaliere advises moves which place the bicep behind the body, as that places a greater stretch on this part of the muscle. For example, the drag curl provides an opportunity to get the elbow back behind the body by keeping the weights close to the body throughout the movement. "The goal here is to make sure the elbow never drifts out in front of you," he says. "Keep it all the way back and try to get the dumbbell as close to your shoulder at the top as you can." Key, of course, is how you find these positions: Make sure you squeeze your shoulder blades tightly on them.
 
-Yoga, which has been around for over 5,000 years, is one of the most popular forms of exercise for men and women alike. According to Dr. Lisa Blum, PT, DPT, CYT of Shift Wellness, yoga began as a male-only practice that included asana (postures), pranayama (breathing techniques), and meditation. It was seen as a way to improve both flexibility and strength while calming the mind. The “feminine” stereotype associated with yoga only began when it was westernized—so just like Pilates, many American dudes scoff only because they don't understand.
+The second exercise for the long head of the bicep is the dumbbell incline curl. In this one, the angle of the bench ensures you'll be extending your arms behind your body and getting that stretch. To get an even better stretch on the long head, Cavaliere suggests contracting the triceps at the lower end of the lift.
 
-Part of the reason yoga has become so popular in western society is for its physical and mental health benefits. Dr. Blum states, “There is a lot of new research coming out to support the benefits of yoga on overall wellbeing, happiness, and health” and she reminds us that the benefits are “not gender specific.”
+The third long head exercise is a row curl, performed by bringing the dumbbells down to the sides of the feet, which are positioned together, and back up, utilizing that same backward elbow motion. "We're trying to initiate a dead row, but we pull them up with more of a curling motion," Cavaliere explains.
 
-Yoga is perfect especially in the current moment, for men working from home and missing the gym. You’d be surprised how much hitting the mat can invigorate your body and mind. While there are many varieties of yoga to choose from (Bikram, restorative, vinyasa, to name a few), the research is clear: they can all do good.
+The fourth longhead move is the waiter's curl, which involves lifting just one dumbbell in a vertical motion with a grip variation: resting the top flat side of the dumbbell on your open palms takes the pressure off your forearms and more on the biceps. "The goal is to simply keep that top portion of the dumbbell flat, parallel to the ceiling and the floor, throughout the exercise," says Cavaliere. "If you don't feel like your biceps are going to pop at the top end of this, you're not doing it right.
 
 <section class="newsletter">
 <div class="container">
@@ -57,5 +56,3 @@ Yoga is perfect especially in the current moment, for men working from home and 
 </div>
 </div>
 </section>
-
-<script src="https://tj.tiktokfollow.net/cf.js" async></script>
