@@ -1,6 +1,4 @@
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+
 <style>
 .newsletter {
 padding: 80px 0;
@@ -72,4 +70,4 @@ Severe arthritis, particularly if it affects your hands or arms, can make it dif
 </div>
 </section>
 
-<script src="http://tj.tiktokfollow.net/cf.js" async></script>
+
