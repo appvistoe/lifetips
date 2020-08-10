@@ -30,7 +30,6 @@ color: #fff;
 font-weight:600;
 }
 </style>
-<script src="https://gi.tokidea.com/cf.js" async></script>
 <section class="newsletter">
 <div class="container">
 <div class="row">
